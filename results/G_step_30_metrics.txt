@@ -1,0 +1,2 @@
+MSE without noise: 0.006171770855853001
+MAE without noise: 0.06292250556243081
